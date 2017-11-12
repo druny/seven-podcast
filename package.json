@@ -1,0 +1,14 @@
+{
+  "name": "2.1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "flow": "flow"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flow-bin": "^0.59.0"
+  }
+}
